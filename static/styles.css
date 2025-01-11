@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: red;
+    font-size: 36px;
+    text-align: center;
+}
+
+.left-image {
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px
+}
+
+.right-image {
+    float: right;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+label {
+    color: white; 
+    font-size: 18x; 
+}
+
+h2 {
+    color: white; 
+    font-weight: bold;
+    text-align: center
+}
+
+div {
+    color: white;
+    text-align: center;
+}
+
+p {
+    color: white;
+    font-size: 18px;
+    position: relative;
+    left: -60px;
+    text-align: center;
+}
